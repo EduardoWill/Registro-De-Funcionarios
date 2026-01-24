@@ -1,16 +1,19 @@
 Exigências do projeto
 
 Oque estudar:
-Padrão de projeto MVC;
-Estrutura de dados;
-Metodologias ágeis Scrum;
-CRUD;
-Redução de linhas no projeto;
-API;
 Versionamento Git e Github;
+Padrão de projeto MVC;
+Boas práticas
+Estrutura de dados;
+CRUD;
 Programação Orientada a Objeto (POO);
-Commits e nomes de VAR e Functions em inglês técnico:
+Metodologias ágeis Scrum;
+API;
 
+
+Desafios:
+Commits e nomes de VAR e Functions em inglês técnico:
+Redução de linhas no projeto;
 
 Tecnologias:
 HTML CSS;
