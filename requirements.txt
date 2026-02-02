@@ -1,0 +1,42 @@
+Exigências do projeto
+
+Oque estudar:
+Versionamento Git e Github;
+Padrão de projeto MVC;
+Boas práticas
+Estrutura de dados;
+CRUD;
+Programação Orientada a Objeto (POO);
+Metodologias ágeis Scrum;
+API;
+
+
+Desafios:
+Commits e nomes de VAR e Functions em inglês técnico:
+Redução de linhas no projeto;
+
+Tecnologias:
+HTML CSS;
+Tailwind;
+Python/Flask;
+MySQL;
+
+Qual é a funcionalidade principal?
+Registrar e monitorar funcionários de uma empresa.
+
+Funcionalidades:
+Edição de dados do funcionário, status, login do ADM, 
+
+Extras:
+Exportar a página do funcionário para pdf, histórico do que o ADM fez, Dark Mode, 
+
+
+Dados:
+Nome;
+PK RE;
+Endereço;
+Status;
+Cargo;
+Telefone;
+Email;
+
