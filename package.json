@@ -1,12 +1,10 @@
 {
-  "dependencies": {
-    "tailwindcss": "^4.1.18"
+  "private": true,
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/public/style.css -o ./src/public/output.css --watch"
   },
   "devDependencies": {
+    "tailwindcss": "^4.1.18",
     "@tailwindcss/cli": "^4.1.18"
-  },
-  "scripts": {
-    "dev": "tailwindcss -i ./src/public/style.css -o ./src/public/output.css --watch"
   }
 }
-
